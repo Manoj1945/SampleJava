@@ -6,7 +6,11 @@ public class Sample {
 	}
 	public static void main(String[] args) 
 	{		
-System.out.printl("Im from branch");
+System.out.println("Im from branch");
+
+System.out.println("Im from branch");
+
+System.out.println("branch");
 	}
 
 }
